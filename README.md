@@ -1,3 +1,3 @@
-# My_Study_Plan
+## My_Study_Plan
 
 ° Ruby Completed
