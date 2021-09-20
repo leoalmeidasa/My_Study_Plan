@@ -1,2 +1,2 @@
 # My_Study_Plan
-# Ruby
+Ruby Completed
