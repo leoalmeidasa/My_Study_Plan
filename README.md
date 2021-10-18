@@ -6,9 +6,9 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/leoalmeidasa/My_Study_Plan?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/leoalmeidasa/My_Study_Plan?style=for-the-badge)
 
-### Cursos 
+### Linguagens que estou estudando
 
-Os cursos que estou estudando ou estudei, serão colocados aqui:
+As linguagens que estou estudando ou estudei, serão colocados aqui:
 
 - [x] Ruby Bãsico e OO
 - [ ] Ruby On Rails
