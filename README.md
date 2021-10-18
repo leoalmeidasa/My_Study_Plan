@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/leoalmeidasa/My_Study_Plan?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/leoalmeidasa/My_Study_Plan?style=for-the-badge)
 
-### CUrsos 
+### Cursos 
 
 Os cursos que estou estudando ou estudei, serão colocados aqui:
 
